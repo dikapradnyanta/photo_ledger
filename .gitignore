@@ -1,0 +1,6 @@
+__pycache__/
+.env
+.venv/
+*.pyc
+Data_Log.xlsx
+Captured_Photos/
