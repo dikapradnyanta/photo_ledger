@@ -1,6 +1,6 @@
 __pycache__/
+*.pyc
 .env
 .venv/
-*.pyc
-Data_Log.xlsx
-Captured_Photos/
+build/
+dist/
